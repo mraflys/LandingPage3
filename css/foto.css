@@ -1,0 +1,78 @@
+body{
+    background-color:#bebebe;
+}
+img.logoperusahaan{
+    height: 3%;
+    width: 3%;
+    margin-right: 8px;
+}
+.carousel-inner img {
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.tulisan-tengah{
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 35%;
+
+    background-color:#afafaf21;
+}
+
+img.mainfoto{
+    height: 1000px;
+    width: 2000px;
+    margin-bottom: 15px;
+    
+}
+
+img.folderfoto{
+    height: 515px;
+    width: 1000px;
+    margin-bottom: 15px;
+}
+
+img.folderprocesor{
+    height: 500px;
+    width: 500px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+img.icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+    width: 80%;
+}
+
+.dropdown{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: 100%;
+    width: 80%;
+}
+
+.container{
+    background-color:#ffffff;
+    padding: 30px;
+}
+
+.content{
+    background-color:#ffffff;
+    padding: 30px;
+    margin-top: -30px;
+}
+
+.carousel{
+    background-color:#ffffff;
+    margin-bottom: -30px;
+}
